@@ -2,7 +2,7 @@
 Real Time Bus Tracker
 
 **Description of the project:** 
-Real Time Bus Tracker monitors the current position of a selected bus and move its marker in Mapbox
+Monitor the current position of a selected bus and track its movement on Mapbox
 
 **How to Run:** 
 
